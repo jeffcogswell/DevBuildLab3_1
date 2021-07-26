@@ -8,6 +8,7 @@ namespace Lab3_1
 		{
 			Console.WriteLine("Lab 3.1: Student Information");
 			Console.WriteLine("Hello from lab 3.1");
+			Console.WriteLine("Here's another message.");
 		}
 	}
 }
